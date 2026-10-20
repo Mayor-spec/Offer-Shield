@@ -1,0 +1,6 @@
+{
+  "name": "OfferShield",
+  "description": "Verify before you trust. Help students evaluate suspicious scholarship offers, internship adverts, job opportunities, and recruitment messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
